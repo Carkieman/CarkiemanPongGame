@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         y: canvas.height / 2 - paddleHeight / 2,
         width: paddleWidth,
         height: paddleHeight,
-        speed: 4
+        speed: 10
     };
 
     // Score variables
